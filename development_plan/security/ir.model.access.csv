@@ -1,0 +1,6 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+development_plan,development_plan,model_development_plan,,1,1,1,1
+learning_development_line,learning_development_line,model_learning_development_line,,1,1,1,1
+additional_comments_line,additional_comments_line,model_additional_comments_line,,1,1,1,1
+career_planning_line,career_planning_line,model_career_planning_line,,1,1,1,1
+training_development_line,training_development_line,model_training_development_line,,1,1,1,1
